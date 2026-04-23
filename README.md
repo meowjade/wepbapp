@@ -2,5 +2,3 @@
 
 A simple Flask web application.
 
-
-NEW LINE
